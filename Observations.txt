@@ -1,0 +1,4 @@
+Analysis Results ->
+Latitude and Temparatures are correlated. The closer the city is to the equator the warmer it is and viceversa.
+There is no correlation between Latitude and Humidity as the plot shows high humidity across all latitudes.
+There is no correlation between Latitide and Wind Speed as the wind speed varies across all latitudes.
